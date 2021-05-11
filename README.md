@@ -1,3 +1,3 @@
 ﻿Name: Pramita Tiwari
 user name: pt670520
-class: CS2400, section 107
+Class: CS2400, section 107
